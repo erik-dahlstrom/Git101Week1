@@ -1,3 +1,1 @@
-File with feature branch information. 
-Another line for another feature.
-Line of code that should cause a conflict. 
+Updated file feature 301. Blah blah blah, text text text. 
